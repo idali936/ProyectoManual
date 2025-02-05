@@ -25,6 +25,7 @@
 ![Imagen de escritorio](python.jpg)
 ---
 * Ventana de inicio: Seleccionamos las dos opciones que se encuentran en la parte de abajo py.exe y phat.
+  
 ![Imagen de ventana 1](ventana1.jpg)
 ---
 * Una vez seleccionado las dos opciones damos clic en Install Now.
