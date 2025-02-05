@@ -55,4 +55,4 @@
 ![Imagen de sistema2](sistema2.png)
 ![Imagen de sistema](sistema.png)
 ---
-* Siendo asi, es como hemos finalizado este manual para la descarga e instalación de python.
+* Siendo asi, es como hemos finalizado este manual para la descarga e instalación de python...
